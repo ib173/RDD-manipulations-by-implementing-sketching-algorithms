@@ -1,0 +1,199 @@
+INFO  time: initialize in 0.53s
+WARN  Skipping build import for unsupported sbt version <unknown>
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+INFO  time: initialize in 0.48s
+WARN  Skipping build import for unsupported sbt version <unknown>
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+  C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+  C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+Apr 06, 2021 6:14:14 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+java.lang.NullPointerException: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+Apr 06, 2021 6:18:19 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+java.lang.NullPointerException: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+Apr 06, 2021 6:20:06 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+java.lang.NullPointerException: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+Apr 06, 2021 6:20:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 253
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\build.sbt
+WARN  Skipping build import for unsupported sbt version <unknown>
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\project\build.properties
+  C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\project\build.properties
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+Apr 06, 2021 6:47:31 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+java.lang.NullPointerException: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+something's wrong: no file:///C:/Users/iannb/OneDrive/Documents/BC%20Senior%20Year_/Large%20Scale%20Data%20Processing/RDD-manipulations-by-implementing-sketching-algorithms/src/main/scala/project_2/main.scala in Seq[Int]RangePosition(file:///C:/Users/iannb/OneDrive/Documents/BC%20Senior%20Year_/Large%20Scale%20Data%20Processing/RDD-manipulations-by-implementing-sketching-algorithms/src/main/scala/project_2/main.scala, 4841, 4841, 4849)
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+Apr 06, 2021 6:51:20 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+java.lang.NullPointerException: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\build.sbt
+INFO  skipping build import with status 'Requested'
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\project\build.properties
+INFO  skipping build import with status 'Requested'
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+something's wrong: no file:///C:/Users/iannb/OneDrive/Documents/BC%20Senior%20Year_/Large%20Scale%20Data%20Processing/RDD-manipulations-by-implementing-sketching-algorithms/src/main/scala/project_2/main.scala in Array[String]RangePosition(file:///C:/Users/iannb/OneDrive/Documents/BC%20Senior%20Year_/Large%20Scale%20Data%20Processing/RDD-manipulations-by-implementing-sketching-algorithms/src/main/scala/project_2/main.scala, 5795, 5795, 5808)
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\build.sbt
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+INFO  skipping build import with status 'Requested'
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\project\build.properties
+INFO  skipping build import with status 'Requested'
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 
+something's wrong: no file:///C:/Users/iannb/OneDrive/Documents/BC%20Senior%20Year_/Large%20Scale%20Data%20Processing/RDD-manipulations-by-implementing-sketching-algorithms/src/main/scala/project_2/main.scala in Seq[Int]RangePosition(file:///C:/Users/iannb/OneDrive/Documents/BC%20Senior%20Year_/Large%20Scale%20Data%20Processing/RDD-manipulations-by-implementing-sketching-algorithms/src/main/scala/project_2/main.scala, 3585, 3585, 3593)
+something's wrong: no file:///C:/Users/iannb/OneDrive/Documents/BC%20Senior%20Year_/Large%20Scale%20Data%20Processing/RDD-manipulations-by-implementing-sketching-algorithms/src/main/scala/project_2/main.scala in Array[String]RangePosition(file:///C:/Users/iannb/OneDrive/Documents/BC%20Senior%20Year_/Large%20Scale%20Data%20Processing/RDD-manipulations-by-implementing-sketching-algorithms/src/main/scala/project_2/main.scala, 5797, 5797, 5810)
+something's wrong: no file:///C:/Users/iannb/OneDrive/Documents/BC%20Senior%20Year_/Large%20Scale%20Data%20Processing/RDD-manipulations-by-implementing-sketching-algorithms/src/main/scala/project_2/main.scala in Array[String]RangePosition(file:///C:/Users/iannb/OneDrive/Documents/BC%20Senior%20Year_/Large%20Scale%20Data%20Processing/RDD-manipulations-by-implementing-sketching-algorithms/src/main/scala/project_2/main.scala, 5797, 5797, 5810)
+WARN  no build target: C:\Users\iannb\OneDrive\Documents\BC Senior Year_\Large Scale Data Processing\RDD-manipulations-by-implementing-sketching-algorithms\src\main\scala\project_2\main.scala
+WARN  no build target: 

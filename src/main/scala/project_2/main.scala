@@ -37,7 +37,7 @@ object main{
       return 1+zeroes(num >> 1, remain >> 1);
     }
 
-    def zeroes(num: Long): Int =        /*calculates #consecutive trialing zeroes  */
+    def zeroes(num: Long): Int =        //calculates #consecutive trialing zeroes
     {
       return zeroes(num, numBuckets)
     }
@@ -64,7 +64,7 @@ object main{
   }
 
   class BJKSTSketch(bucket_in: Set[(String, Int)] ,  z_in: Int, bucket_size_in: Int) extends Serializable {
-/* A constructor that requies intialize the bucket and the z value. The bucket size is the bucket size of the sketch. */
+// A constructor that requies intialize the bucket and the z value. The bucket size is the bucket size of the sketch.
 
     var bucket: Set[(String, Int)] = bucket_in
     var z: Int = z_in
@@ -76,12 +76,20 @@ object main{
       this(Set((s, z_of_s )) , z_of_s, bucket_size_in)
     }
 
-    def +(that: BJKSTSketch): BJKSTSketch = {    /* Merging two sketches */
+    def +(that: BJKSTSketch): BJKSTSketch = {    // Merging two sketches
+      var numB = bucket ++ that.bucket
+      z = that.z.max(z)
+      numB = numB.filter(_._2 >= z)
+      while ( numB.size > bucket_size_in){
+        z += 1
+        numB = numB.filter(_._2 >= z)
+      }
+      return new BJKSTSketch(numB, z, BJKST_bucket_size)
 
     }
 
-    def add_string(s: String, z_of_s: Int): BJKSTSketch = {   /* add a string to the sketch */
-
+    def add_string(s: String, z_of_s: Int): BJKSTSketch = {   // add a string to the sketch
+      return this + new BJKSTSketch(s, z_of_s, BJKST_bucket_size)
     }
   }
 
@@ -100,11 +108,27 @@ object main{
 
 
   def BJKST(x: RDD[String], width: Int, trials: Int) : Double = {
+      val h = Seq.fill(trials)(new hash_function(2000000000))
 
+      def param0 = (accu1: Seq[BJKSTSketch], accu2: Seq[BJKSTSketch]) => Seq.range(0,trials).map(i => accu1(i)+accu2(i))
+      def param1 = (accu1: Seq[BJKSTSketch], s: String) => Seq.range(0,trials).map( i =>  accu1(i).add_string(s, h(i).zeroes(h(i).hash(s))))
+
+      val x3 = x.aggregate(Seq.fill(trials)(new BJKSTSketch("dum", 0, width)))(param1, param0)
+      val ans = x3.map(bjkstsketch => scala.math.pow(2, bjkstsketch.z.toDouble)*bjkstsketch.bucket.size).sortWith(_ < _)(trials/2)
+
+      return ans
   }
 
 
   def Tug_of_War(x: RDD[String], width: Int, depth:Int) : Long = {
+    val h = Seq.fill(depth)(Seq.fill(width)(new four_universal_Radamacher_hash_function()))
+
+    def param0 = (accu1: Seq[Seq[Long]], accu2: Seq[Seq[Long]]) => Seq.range(0, depth).map(i => Seq.range(0,width).map(j => accu1(i)(j) + accu2(i)(j)))
+    def param1 = (accu1: Seq[Seq[Long]], s: String) => Seq.range(0, depth).map(i => Seq.range(0,width).map(j => accu1(i)(j) + h(i)(j).hash(s)))
+
+    var z = x.aggregate(Seq.fill(depth)(Seq.fill(width)(0.asInstanceOf[Long])))( param1, param0).map(depSeq => depSeq.map(x => x * x))
+    val ans = z.map(depSeq => depSeq.reduce(_+_)/width).sortWith(_ < _)( depth/2)
+    return ans
 
   }
 
@@ -116,10 +140,13 @@ object main{
 
 
   def exact_F2(x: RDD[String]) : Long = {
-
+    val pair = x.map(a=>(a,1))
+    val f2 = pair.reduceByKey(_ + _)
+    val res = f2.map(i=>scala.math.pow(i._2,2)).reduce(_+_).toLong
+    return res
   }
 
-
+// spark-submit --class "project_2.main" --master "local[*]" target/scala-2.12/project_2_2.12-1.0.jar BJKST
 
   def main(args: Array[String]) {
     val spark = SparkSession.builder().appName("Project_2").getOrCreate()
@@ -209,4 +236,3 @@ object main{
 
   }
 }
-
